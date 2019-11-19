@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/ts",
+    "target": "esnext",
+    "forceConsistentCasingInFileNames": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "allowJs": true,
+    "noEmit": true,
+    "strict": true,
+    "noUnusedLocals": true,
+    "esModuleInterop": true,
+    "jsx": "react"
+  },
+  "exclude": ["node_modules", "dist", "webpack", "tests/*"]
+}
