@@ -1,11 +1,11 @@
-# `@baffle/translate`
+# `@yafep/translate`
 
-Opinionated localization package for Baffle UI.
+localization package
 
 ## Usage
 
 ```
-import {load, t} from '@baffle/translate';
+import {load, t} from '@yafep/translate';
 
 // wait for translation file to be loaded
 try {
